@@ -1,4 +1,4 @@
-const apiKey = "992512efd6c70f6d57179544b2ada266"; // 🔥 Replace withyour API Key
+const apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxx"; // 🔥 Replace withyour API Key
 const weatherInfo = document.querySelector(".weather-info");
 const errorMessage = document.getElementById("error-message");
 let map = L.map("map").setView([20, 77], 5); // Default India Center
